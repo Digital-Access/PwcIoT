@@ -1,8 +1,8 @@
 const config = {
     videos: [
-        "https://a.storyblok.com/f/117027/1920x1080/22492537fd/iot-slide-1.png",
-        "https://a.storyblok.com/f/117027/1920x1080/460adfd42f/iot-slide-2.png",
-        "https://a.storyblok.com/f/117027/1920x1080/6497071a64/iot-slide-3.png"
+        "https://a.storyblok.com/f/117027/1280x720/2570c86cfb/iot-slide-1.png",
+        "https://a.storyblok.com/f/117027/1280x720/ec9aeddae3/iot-slide-2.png",
+        "https://a.storyblok.com/f/117027/1280x720/068aa50243/iot-slide-3.png"
     ],
     next_button: "Next slide",
     previous_button: "Previous slide",
