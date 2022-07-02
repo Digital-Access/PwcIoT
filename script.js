@@ -1,12 +1,12 @@
 const config = {
     videos: [
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true",
-        "https://fast.wistia.net/embed/iframe/rhgkngj4yv?seo=false&videoFoam=true"
+        "https://a.storyblok.com/f/117027/960x540/58b82fa92f/iot-tmt-challenge-aaux_esg-1.png",
+        "https://a.storyblok.com/f/117027/960x540/8cb89ed0b4/iot-tmt-challenge-aaux_esg-2.png",
+        "https://a.storyblok.com/f/117027/960x540/dcb2dc189d/iot-tmt-challenge-aaux_esg-3.png"
     ],
-    next_button: "Next video",
-    previous_button: "Previous video",
-    progress_text: "Video"
+    next_button: "Next slide",
+    previous_button: "Previous slide",
+    progress_text: "Slide"
 }
 
 const nxtBtn = document.getElementById('nxtBtn');
